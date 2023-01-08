@@ -1,4 +1,4 @@
 ### Hey 👋
 
-- This GitHub Represents My Work Here at Fyle Technologies Pvt Ltd.
-- My Personal GitHub : <a href = "https://github.com/daxoron">Link</a>
+- This GitHub account represents my work here at Fyle Technologies Pvt Ltd.
+- My personal GitHub : <a href = "https://github.com/daxoron">Link</a>
