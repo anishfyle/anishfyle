@@ -2,8 +2,6 @@
 
 ### Tech Stack Highlights
 
-My toolkit includes a variety of modern technologies, with a focus on:
-
 * **Languages:** Python, JavaScript, TypeScript, C++, SQL (PostgreSQL)
 * **Frontend:** Angular, React.js, PrimeNG, Angular Material, Tailwind CSS, Vite
 * **Backend:** Django, Node.js, RESTful APIs
