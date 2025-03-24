@@ -3,7 +3,7 @@
 ### Tech Stack Highlights
 
 * **Languages:** Python, JavaScript, TypeScript, C++, SQL (PostgreSQL)
-* **Frontend:** Angular, React.js, PrimeNG, Angular Material, Tailwind CSS, Vite
+* **Frontend:** Angular, PrimeNG, Angular Material, Tailwind CSS, Vite
 * **Backend:** Django, Node.js, RESTful APIs
 * **Testing:** Cypress, Jasmine, Karma, Pytest, Jest
 * **DevOps & Tools:** Git, Docker, GitHub Actions, AWS, VS Code, Figma
