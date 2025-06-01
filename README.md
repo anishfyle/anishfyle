@@ -3,6 +3,7 @@
 ### Contributions to `fyle-integrations-app`
 * I have **over 2 years of contribution history** at Fyle, working on production-grade systems with an emphasis on clean code and scalability.
 * You can view my contributions to the `fyle-intacct-api` repository here: [https://github.com/fylein/fyle-intacct-api/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle](https://github.com/fylein/fyle-intacct-api/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle)
+* You can view my contributions to the `fyle-intacct-api` repository here: [https://github.com/fylein/fyle-qbo-api/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle](https://github.com/fylein/fyle-qbo-api/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle)
 * You can view my contributions to the `fyle-integrations-app` repository here: [https://github.com/fylein/fyle-integrations-app/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle](https://github.com/fylein/fyle-integrations-app/pulls?q=is%3Apr+is%3Aclosed+author%3Aanishfyle)
 
 ### Tech Stack Highlights
