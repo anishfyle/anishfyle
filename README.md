@@ -13,3 +13,12 @@
 * **Frontend:** Angular, PrimeNG, Angular Material, Tailwind CSS, Vite
 * **Testing:** Pytest, Cypress, Jasmine, Karma, Jest
 * **DevOps & Tools:** Git, Docker, GitHub Actions, Figma
+
+---
+
+> ⚠️ This profile only displays my **open-source contributions**. Proprietary work is not reflected here.
+
+### 🌐 Connect with me
+- 🐦 [Twitter](https://twitter.com/anishfyi)
+- 💼 [LinkedIn](https://linkedin.com/in/anishfyi)
+- 💻 [Main GitHub Profile](https://github.com/anishfyi)
